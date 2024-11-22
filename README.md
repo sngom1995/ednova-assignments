@@ -14,7 +14,7 @@ A simple hello world program in rust
   
 
 
-# Guess the Number Game
+# Assignment-2:  Guess the Number Game
 
 A simple command-line game where the user tries to guess a randomly generated number within a specified range.
 
