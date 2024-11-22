@@ -1,5 +1,18 @@
 # ednova-assignments
 
+# Assignment-1
+
+A simple hello world program in rust
+
+## How to Run the Program
+
+1. **assignment-1**:
+  cd assignment-1
+  rustc main.rs
+  .\main
+  
+
+
 # Guess the Number Game
 
 A simple command-line game where the user tries to guess a randomly generated number within a specified range.
@@ -23,5 +36,12 @@ A simple command-line game where the user tries to guess a randomly generated nu
 
 1. **Clone or Download the Repository**:
    ```sh
-   git clone https://github.com/your-username/guess-the-number.git
-   cd guess-the-number
+   git clone origin https://github.com/sngom1995/ednova-assignments.git
+   cd ednova-assignments
+
+2. **assignment-2**:
+  cd assignment-2
+  cd guessing_number_game
+  cargo build
+  cargo run
+
