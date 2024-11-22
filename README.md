@@ -47,3 +47,5 @@ A simple command-line game where the user tries to guess a randomly generated nu
   cargo build
   cargo run
 
+## Images of running program
+![Screenshot_2](https://github.com/sngom1995/ednova-assignments/blob/main/guess_game_rust.PNG)
