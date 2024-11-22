@@ -7,9 +7,10 @@ A simple hello world program in rust
 ## How to Run the Program
 
 1. **assignment-1**:
-  cd assignment-1
-  rustc main.rs
-  .\main
+   ```sh
+   cd assignment-1
+   rustc main.rs
+   .\main
   
 
 
@@ -40,6 +41,7 @@ A simple command-line game where the user tries to guess a randomly generated nu
    cd ednova-assignments
 
 2. **assignment-2**:
+  ```sh
   cd assignment-2
   cd guessing_number_game
   cargo build
