@@ -1,0 +1,4 @@
+
+# .githooks/pre-commit
+#!/bin/sh
+./gradlew check

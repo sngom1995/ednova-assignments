@@ -11,7 +11,7 @@ import org.springframework.data.mongodb.config.AbstractMongoClientConfiguration;
 public class MongoClientConfig extends AbstractMongoClientConfiguration {
     @Bean
     public MongoClient mongoClient() {
-        return MongoClients.create();
+        return MongoClients.create("mongodb://root:root@localhost:27017/assignement2-db?authSource=admin");
     }
 
     @Override
