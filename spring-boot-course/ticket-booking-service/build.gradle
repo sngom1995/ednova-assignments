@@ -27,7 +27,7 @@ repositories {
 spotless {
     java {
         removeUnusedImports()
-        eclipse().configFile("tools/spotless.xml")
+        eclipse().configFile("tools/spotless/spotless.xml")
         trimTrailingWhitespace()
         endWithNewline()
     }

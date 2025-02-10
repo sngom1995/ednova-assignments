@@ -1,3 +1,6 @@
 spring:
   application:
     name: ticket-booking-service
+server:
+  servlet:
+    context-path: /tbs
